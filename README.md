@@ -17,13 +17,9 @@
 
 ## 🚀 About Me
 
-I'm a **Junior Back-End .NET Developer** who has delivered **4 end-to-end full-stack projects** using C#, .NET, ASP.NET Core, and T-SQL across **Clean, Onion, and 3-Tier architectures**.
+I'm a **Back-End .NET Developer** with strong, hands-on knowledge of C#, .NET, ASP.NET Core, and T-SQL, building projects across **Clean, Onion, and 3-Tier architectures**.
 
 - 🎓 Bachelor of Information Technology @ Delta Technological University (GPA 3.8) — graduating June 2026
-- 💼 Currently completing the **Full Stack .NET Internship** with Digital Egypt Pioneers Initiative (DEPI)
-- 🌱 Skilled in database design and RESTful API development
-- 🗣️ Strong problem-solving, initiative, and reliable, proactive communication across team-based projects
-- 🌍 Arabic (Native) | English (Fluent)
 
 ---
 
@@ -61,18 +57,6 @@ I'm a **Junior Back-End .NET Developer** who has delivered **4 end-to-end full-s
 
 ---
 
-## 💼 Experience
-
-**Full Stack .NET Internship — Digital Egypt Pioneers Initiative (DEPI)** *(Hybrid, June 2025 – December 2025)*
-- Completed and achieved core learning outcomes of the full-stack .NET program.
-- Freelance Full Stack Developer: built and commercialized a custom web application, generating $300 in direct revenue — owned requirements gathering through delivery across the full project lifecycle.
-
-**AI Internship — We Telcome Egypt** *(Onsite, July 2023 – August 2023)*
-- Performed data cleaning, preprocessing, and exploratory analysis on the 891-record Titanic dataset using Python (Pandas, NumPy) to prepare features for modeling.
-- Trained and evaluated 2 classification models (Logistic Regression, Random Forest) using Scikit-learn to predict passenger survival, applying feature engineering and train/test validation.
-
----
-
 ## 📌 Featured Projects
 
 ### 🔧 [Mechanicshop — Vehicle Mechanics Workshop](https://github.com/AbdAlAleem-Hassan/Mechanicshop)
@@ -102,14 +86,13 @@ I'm a **Junior Back-End .NET Developer** who has delivered **4 end-to-end full-s
 ---
 
 <details open>
-<summary><h2>🎓 Certificates</h2></summary>
+<summary><h2>🎓 Certificates & Courses</h2></summary>
 
 - 📄 [Mastering ASP.NET Core: Concepts to Production-Ready APIs](<./assets/certificate-of-completion-for-mastering-asp-net-core-concepts-to-production-ready-apis%20(1).pdf>) — Metigator Platform, March 2026
 - 📄 [Software Development – Full Stack .NET Web Developer](<./assets/50%20AbdAlAleem%20Elsayed%20AbdAlAleem%20(1).pdf>) — Digital Egypt Pioneers Initiative, December 2025
 - 📄 [Business English Track](<./assets/Abdel-Aleem%20El-Sayed%20Abdel-Aleem%20Hassan%20(1).pdf>) — Berlitz Egypt & Digital Egypt Pioneers Initiative, December 2025
 - 📄 [AI Internship Certificate](./assets/AICertificate.pdf) — We Telcome Egypt, August 2023
 - Back-end (.NET Core) Diploma — Route IT Training Center
-- CCNA — Networking
 
 </details>
 
