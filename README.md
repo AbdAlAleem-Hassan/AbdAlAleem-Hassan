@@ -115,9 +115,11 @@ I'm a **Junior Back-End .NET Developer** who has delivered **4 end-to-end full-s
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AbdAlAleem-Hassan&show_icons=true&theme=default&hide_border=true&cache_seconds=1800"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAlAleem-Hassan&layout=compact&theme=default&hide_border=true&cache_seconds=1800"/>
+  <img src="https://raw.githubusercontent.com/AbdAlAleem-Hassan/github-stats/generated/generated/overview.svg" alt="GitHub stats overview"/>
+  <img src="https://raw.githubusercontent.com/AbdAlAleem-Hassan/github-stats/generated/generated/languages.svg" alt="Top languages"/>
 </div>
+
+<sub>Stats are generated automatically once a day by a separate <a href="https://github.com/AbdAlAleem-Hassan/github-stats">github-stats</a> repo — see setup notes below.</sub>
 
 ---
 
