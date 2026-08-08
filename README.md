@@ -37,8 +37,6 @@ I'm a **Back-End .NET Developer** with strong, hands-on knowledge of C#, .NET, A
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**Data Access & APIs**
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-3776AB?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/RESTful%20API-25D366?style=for-the-badge)
@@ -93,6 +91,7 @@ I'm a **Back-End .NET Developer** with strong, hands-on knowledge of C#, .NET, A
 - 📄 [Business English Track](<./assets/Abdel-Aleem%20El-Sayed%20Abdel-Aleem%20Hassan%20(1).pdf>) — Berlitz Egypt & Digital Egypt Pioneers Initiative, December 2025
 - 📄 [AI Internship Certificate](./assets/AICertificate.pdf) — We Telcome Egypt, August 2023
 - Back-end (.NET Core) Diploma — Route IT Training Center
+- CCNA — Networking
 
 </details>
 
