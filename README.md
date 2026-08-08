@@ -41,6 +41,9 @@ I'm a **Back-End .NET Developer** with strong, hands-on knowledge of C#, .NET, A
 ![Dapper](https://img.shields.io/badge/Dapper-3776AB?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/RESTful%20API-25D366?style=for-the-badge)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **Architecture & Patterns**
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
@@ -84,7 +87,7 @@ I'm a **Back-End .NET Developer** with strong, hands-on knowledge of C#, .NET, A
 ---
 
 <details open>
-<summary><h2>🎓 Certificates & Courses</h2></summary>
+<summary><h2>🎓 Certificates</h2></summary>
 
 - 📄 [Mastering ASP.NET Core: Concepts to Production-Ready APIs](<./assets/certificate-of-completion-for-mastering-asp-net-core-concepts-to-production-ready-apis%20(1).pdf>) — Metigator Platform, March 2026
 - 📄 [Software Development – Full Stack .NET Web Developer](<./assets/50%20AbdAlAleem%20Elsayed%20AbdAlAleem%20(1).pdf>) — Digital Egypt Pioneers Initiative, December 2025
