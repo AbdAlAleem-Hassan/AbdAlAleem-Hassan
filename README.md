@@ -87,14 +87,13 @@ I'm a **Back-End .NET Developer** with strong, hands-on knowledge of C#, .NET, A
 ---
 
 <details open>
-<summary><h2>🎓 Certificates</h2></summary>
+<summary><h2>🎓 Certificates & Courses</h2></summary>
 
 - 📄 [Mastering ASP.NET Core: Concepts to Production-Ready APIs](<./assets/certificate-of-completion-for-mastering-asp-net-core-concepts-to-production-ready-apis%20(1).pdf>) — Metigator Platform, March 2026
 - 📄 [Software Development – Full Stack .NET Web Developer](<./assets/50%20AbdAlAleem%20Elsayed%20AbdAlAleem%20(1).pdf>) — Digital Egypt Pioneers Initiative, December 2025
 - 📄 [Business English Track](<./assets/Abdel-Aleem%20El-Sayed%20Abdel-Aleem%20Hassan%20(1).pdf>) — Berlitz Egypt & Digital Egypt Pioneers Initiative, December 2025
 - 📄 [AI Internship Certificate](./assets/AICertificate.pdf) — We Telcome Egypt, August 2023
 - Back-end (.NET Core) Diploma — Route IT Training Center
-- CCNA — Networking
 
 </details>
 
