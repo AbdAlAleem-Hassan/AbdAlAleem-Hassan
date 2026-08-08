@@ -98,21 +98,30 @@ I'm a **Junior Back-End .NET Developer** who has delivered **4 end-to-end full-s
 
 ---
 
-## 🎓 Certificates & Courses
+<details open>
+<summary><h2>🎓 Certificates</h2></summary>
+<div align="center">
+    <a href="./assets/certificates/aspnet-core-cert.pdf"><img src="./assets/certificates/aspnet-core-cert.png" width="270" alt="Mastering ASP.NET Core: Concepts to Production-Ready APIs"/></a>
+    <a href="./assets/certificates/depi-graduation-cert.pdf"><img src="./assets/certificates/depi-graduation-cert.png" width="270" alt="Digital Egypt Pioneers Initiative - Full Stack .NET Web Developer"/></a>
+    <a href="./assets/certificates/business-english-cert.pdf"><img src="./assets/certificates/business-english-cert.png" width="270" alt="Business English Track - Berlitz Egypt & DEPI"/></a>
+</div>
 
-- Mastering ASP.NET Core: Concepts to Production-Ready APIs — Metigator Platform, March 2026
-- Software Development – Full Stack .NET Web Developer — Digital Egypt Pioneers Initiative, December 2025
+- 📄 [Mastering ASP.NET Core: Concepts to Production-Ready APIs](./assets/certificate-of-completion-for-mastering-asp-net-core-concepts-to-production-ready-apis (1).pdf
+) — Metigator Platform, March 2026
+- 📄 [Software Development – Full Stack .NET Web Developer](./assets/50 AbdAlAleem Elsayed AbdAlAleem (1).pdf) — Digital Egypt Pioneers Initiative, December 2025
+- 📄 [Business English Track](./assets/Abdel-Aleem El-Sayed Abdel-Aleem Hassan (1).pdf) — Berlitz Egypt & Digital Egypt Pioneers Initiative, December 2025
+- 📄 [AI ML](./assets/AICertificate.pdf) — We Telcome Egypt
 - Back-end (.NET Core) Diploma — Route IT Training Center
-- Business English Track — Berlitz Egypt & Digital Egypt Pioneers Initiative, December 2025
 - CCNA — Networking
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AbdAlAleem-Hassan&show_icons=true&theme=default&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAlAleem-Hassan&layout=compact&theme=default"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AbdAlAleem-Hassan&show_icons=true&theme=default&hide_border=true&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAlAleem-Hassan&layout=compact&theme=default&hide_border=true&cache_seconds=1800"/>
 </div>
 
 ---
