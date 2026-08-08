@@ -100,19 +100,14 @@ I'm a **Junior Back-End .NET Developer** who has delivered **4 end-to-end full-s
 
 <details open>
 <summary><h2>🎓 Certificates</h2></summary>
-<div align="center">
-    <a href="./assets/certificates/aspnet-core-cert.pdf"><img src="./assets/certificates/aspnet-core-cert.png" width="270" alt="Mastering ASP.NET Core: Concepts to Production-Ready APIs"/></a>
-    <a href="./assets/certificates/depi-graduation-cert.pdf"><img src="./assets/certificates/depi-graduation-cert.png" width="270" alt="Digital Egypt Pioneers Initiative - Full Stack .NET Web Developer"/></a>
-    <a href="./assets/certificates/business-english-cert.pdf"><img src="./assets/certificates/business-english-cert.png" width="270" alt="Business English Track - Berlitz Egypt & DEPI"/></a>
-</div>
 
-- 📄 [Mastering ASP.NET Core: Concepts to Production-Ready APIs](./assets/certificate-of-completion-for-mastering-asp-net-core-concepts-to-production-ready-apis (1).pdf
-) — Metigator Platform, March 2026
-- 📄 [Software Development – Full Stack .NET Web Developer](./assets/50 AbdAlAleem Elsayed AbdAlAleem (1).pdf) — Digital Egypt Pioneers Initiative, December 2025
-- 📄 [Business English Track](./assets/Abdel-Aleem El-Sayed Abdel-Aleem Hassan (1).pdf) — Berlitz Egypt & Digital Egypt Pioneers Initiative, December 2025
-- 📄 [AI ML](./assets/AICertificate.pdf) — We Telcome Egypt
+- 📄 [Mastering ASP.NET Core: Concepts to Production-Ready APIs](<./assets/certificate-of-completion-for-mastering-asp-net-core-concepts-to-production-ready-apis%20(1).pdf>) — Metigator Platform, March 2026
+- 📄 [Software Development – Full Stack .NET Web Developer](<./assets/50%20AbdAlAleem%20Elsayed%20AbdAlAleem%20(1).pdf>) — Digital Egypt Pioneers Initiative, December 2025
+- 📄 [Business English Track](<./assets/Abdel-Aleem%20El-Sayed%20Abdel-Aleem%20Hassan%20(1).pdf>) — Berlitz Egypt & Digital Egypt Pioneers Initiative, December 2025
+- 📄 [AI Internship Certificate](./assets/AICertificate.pdf) — We Telcome Egypt, August 2023
 - Back-end (.NET Core) Diploma — Route IT Training Center
 - CCNA — Networking
+
 </details>
 
 ---
