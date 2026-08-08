@@ -115,11 +115,15 @@ I'm a **Junior Back-End .NET Developer** who has delivered **4 end-to-end full-s
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbdAlAleem-Hassan/github-stats/generated/generated/overview.svg" alt="GitHub stats overview"/>
-  <img src="https://raw.githubusercontent.com/AbdAlAleem-Hassan/github-stats/generated/generated/languages.svg" alt="Top languages"/>
+
+![](https://github.com/AbdAlAleem-Hassan/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/AbdAlAleem-Hassan/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/AbdAlAleem-Hassan/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/AbdAlAleem-Hassan/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
 </div>
 
-<sub>Stats are generated automatically once a day by a separate <a href="https://github.com/AbdAlAleem-Hassan/github-stats">github-stats</a> repo — see setup notes below.</sub>
+<sub>Stats generated automatically every 24h by <a href="https://github.com/AbdAlAleem-Hassan/github-stats">github-stats</a> (based on <a href="https://github.com/jstrieb/github-stats">jstrieb/github-stats</a>).</sub>
 
 ---
 
