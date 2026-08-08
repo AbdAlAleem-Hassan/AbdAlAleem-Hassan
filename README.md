@@ -102,16 +102,11 @@ const DIMFLIX = {
 
 <details open>
 <summary><a name="significant-certificates"><a/><h2>⚜️ Significant certificates</h2></summary>
-<img src="./assets/significant-certificates/пфо-цп.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/цп-омск.png" width=200 alt="Омск, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/Атомик-Хак.png" width=200 alt="Атомик Хак сертификат"/>
-<img src="./assets/significant-certificates/москва.png" width=200 alt="Москва, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/хабаровск.png" width=200 alt="Хабаровск, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/всероссийский.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/SberGarage.png" width=200 alt="Сбер гараж сертификат"/>
-<img src="./assets/significant-certificates/it-planet ai-спорттех.png" width=200 alt="IT-Planet Спорттех"/>
-<img src="./assets/significant-certificates/it-planet postgresql.png" width=200 alt="IT-Planet PostgreSQL"/>
-<img src="./assets/significant-certificates/Сертификат-Минина.png" width=200 alt="MininCode сертификат"/>
+<img src="./assets/certificate-of-completion-for-mastering-asp-net-core-concepts-to-production-ready-apis (1).pdf
+" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
+<img src="./assets/50 AbdAlAleem Elsayed AbdAlAleem (1).pdf" width=200 alt="Омск, Цифровой прорыв"/>
+<img src="./assets/AICertificate.pdf" width=200 alt="Атомик Хак сертификат"/>
+<img src="./assets/Abdel-Aleem El-Sayed Abdel-Aleem Hassan (1).pdf" width=200 alt="Москва, Цифровой прорыв"/>
 </details>
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
